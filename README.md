@@ -55,7 +55,7 @@ I'm looking forward to applying these skills in future projects and continuing t
 ![Screenshot (83)](https://github.com/user-attachments/assets/0b013f59-cd69-4f45-ba82-b32a324bff92)
 ![Screenshot (84)](https://github.com/user-attachments/assets/cbe86cdc-0011-46ce-8356-77c1cc41a2dc)
 ![Screenshot (85)](https://github.com/user-attachments/assets/ae4f7510-5276-4f1b-993f-b4ebcdbc3315)
-![Screenshot (86)](https://github.com/user-attachments/assets/d1b2e1a5-4d71-4fe4-90d7-c77124b33cdf)
+![Screenshot (117)](https://github.com/user-attachments/assets/1c7c60f1-4bef-4d04-b7a1-4c64ee0773a1)
 ![Screenshot (87)](https://github.com/user-attachments/assets/2d9ce265-0685-4d43-9fe5-8daff2ae5e8a)
 ![Screenshot (116)](https://github.com/user-attachments/assets/1794c75e-89b4-4e18-9ca7-d884fc094b92)
 
