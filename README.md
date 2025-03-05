@@ -49,7 +49,7 @@ Working on the Student-Teacher Appointment System has significantly deepened my 
 
 I'm looking forward to applying these skills in future projects and continuing to explore innovative solutions in web development and user interface design. Thank you for visiting the Student-Teacher Appointment System. Stay tuned for more updates!
 
-#output
+#output:
 
 ![Screenshot (82)](https://github.com/user-attachments/assets/ca9601b8-ea6e-4dff-9ecc-0d3f92d8c839)
 ![Screenshot (83)](https://github.com/user-attachments/assets/0b013f59-cd69-4f45-ba82-b32a324bff92)
